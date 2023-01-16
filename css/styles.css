@@ -1,0 +1,41 @@
+img {
+  height: 500px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+  font-size: 30px;
+}
+
+.link-directory{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+
+.ingredients{
+  background-color: burlywood;
+  font-size:22px;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+  background-color: cornflowerblue;
+}
